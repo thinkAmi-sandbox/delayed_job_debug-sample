@@ -1,24 +1,14 @@
-# README
+# delayed_job_debug-sample
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tested Environment
 
-Things you may want to cover:
+- RubyMine 2021.1.1
+- Ruby 3.0.0
+- rails 6.1.3.2
+- delayed_job_active_record 4.1.6
 
-* Ruby version
+　  
 
-* System dependencies
+## Related Blog (Written in Japanese)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Delayed Job を使って実行する処理を、RubyMineでデバッグをする - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2021/05/19/074439)
